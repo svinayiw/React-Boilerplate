@@ -1,4 +1,37 @@
-# React boilerplate for GraphQL and REST
+# First Ghar Adviser Frontend
 
-For GraphQL, checkout to branch gql
-For REST API, checkout to branch rest-api 
+> ReactJS, TypeScript, REST 
+
+## Installation Guide
+```
+# clone repository
+$ git clone git@github.com:svinayiw/React-Boilerplate.git
+
+# install dependencies
+$ yarn
+
+# copy and modify the .env.example to .env
+
+$ cd React-Boilerplate
+
+# start 
+$ yarn start
+
+```
+
+## Prettier
+
+```
+# Prettier Check 
+$ yarn prettier:check
+
+# Prettier Fix 
+$ yarn prettier:fix 
+```
+
+## Create Build
+
+```
+$yarn build
+```
+

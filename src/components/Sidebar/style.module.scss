@@ -1,0 +1,10 @@
+:global {
+  :local(.site-sidebar) {
+    &.ant-layout-sider {
+      overflow: auto;
+      height: 100vh;
+      position: fixed;
+      left: 0;
+    }
+  }
+}
