@@ -1,0 +1,40 @@
+{
+  "signIn": "サインイン",
+  "dashboard": " ダッシュボード",
+  "users": "ユーザー",
+  "settings": "設定",
+  "logout": "ログアウト",
+  "newUser": "新しいユーザー",
+  "addUser": "ユーザーを追加する",
+  "editUser": "ユーザーの編集",
+  "SN": "S.N",
+  "name": "名前",
+  "email": "Eメール",
+  "password": "パスワード",
+  "firstName": "ファーストネーム",
+  "lastName": "苗字",
+  "createdAt": "で作成",
+  "actions": "行動",
+  "save": "セーブ",
+  "footer": "フッター",
+  "backHome": "帰国",
+  "changePassword": "パスワードを変更する",
+  "oldPassword": "以前のパスワード",
+  "newPassword": "新しいパスワード",
+  "confirmPassword": "パスワードを認証する",
+  "change": "変化する",
+  "basicInformation": "基本情報",
+  "badCredentials": "悪い資格情報",
+  "changedPassword": "パスワードを変更しました。",
+  "validation": {
+    "required": {
+      "email": "メールアドレスを入力してください！",
+      "password": "パスワードを入力してください！",
+      "firstName": "名を入力してください！",
+      "oldPassword": "古いパスワードを入力してください！",
+      "newPassword": "新しいパスワードを入力してください！",
+      "confirmPasswlrd": "パスワードを再入力してください"
+    },
+    "passwordNotMatch": "入力したパスワードが一致しません！"
+  }
+}

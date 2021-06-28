@@ -1,0 +1,38 @@
+{
+  "signIn": "Sign In",
+  "dashboard": "Dashboard",
+  "users": "Users",
+  "settings": "Settings",
+  "logout": "Logout",
+  "newUser": "New User",
+  "addUser": "Add User",
+  "editUser": "Edit User",
+  "SN": "S.N",
+  "name": "Name",
+  "email": "Email",
+  "password": "Password",
+  "firstName": "First name",
+  "lastName": "Last name",
+  "createdAt": "Created at",
+  "actions": "Actions",
+  "save": "Save",
+  "footer": "Footer",
+  "backHome": "Back Home",
+  "changePassword": "Change password",
+  "oldPassword": "Old password",
+  "newPassword": "New password",
+  "confirmPassword": "Confirm password",
+  "change": "Confirm password",
+  "basicInformation": "Basic information",
+  "badCredentials": "Bad credentials",
+  "changedPassword": "Changed password.",
+  "validation": {
+    "required": {
+      "email": "Please input your email!",
+      "password": "Please input your password!",
+      "firstName": "Please input your first name!"
+    }
+  }
+
+
+}
